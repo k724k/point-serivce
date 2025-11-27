@@ -11,6 +11,12 @@
     - 사용자 조회 후 적립
 - 포인트 차감
     - 사용자 조회 후 차감
+      
+## ✅ Services
+- [api-gateway-service](https://github.com/k724k/api-gateway-service)
+- [user-service](https://github.com/k724k/user-service)
+- [board-service](https://github.com/k724k/board-service)
+- [point-service](https://github.com/k724k/point-serivce)
 
 ## ✅ Tech Stack
 <div align="left">
