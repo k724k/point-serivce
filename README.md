@@ -5,7 +5,11 @@
 - 서비스 간 결합도를 낮추고 확장성을 고려한 이벤트 기반 마이크로서비스 설계
 
 ## ✅ Features
-- 사용자 조회 후 포인트 차감 및 적립
+<내부>
+- 포인트 적립
+    - 사용자 조회 후 적립
+- 포인트 차감
+    - 사용자 조회 후 차감
 
 ## ✅ Tech Stack
 <div align="left">
@@ -19,4 +23,8 @@
 </div>
 
 ## ✅ etc
+<img width="557" height="239" alt="Image" src="https://github.com/user-attachments/assets/d9924386-8d59-4e4e-93db-5b924c0ca251" />
+
+
+<img width="703" height="482" alt="Image" src="https://github.com/user-attachments/assets/ccdad428-4237-4ebb-bce4-060bc6b9e649" />
 
